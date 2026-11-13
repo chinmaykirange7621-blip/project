@@ -1,49 +1,911 @@
-YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éí×}tí:-jZ.¶›­–)Ş³V–×÷'B²W6TVffV7BÂW6U7FFRÂG—Rf÷&ÔWfVçBÒg&öÒw&V7Bs°¦–×÷'B°¢ÆW'EG&–ævÆRÀ¢&$6†'C2À¢6†V6´6—&6ÆS"À¢FF&6RÀ¢VF—C2À¢f–ÆUWÀ¢Æöt÷WBÀ¢ÇW2À¢6†–VÆBÀ¢G&6ƒ"À¢‚À§Òg&öÒvÇV6–FR×&V7Bs°¦–×÷'B²6÷W&6T&FvRÒg&öÒrââö6ö×öæVçG2õ6÷W&6T&FvRs°¦–×÷'B²W6U66†öÆ$FFÒg&öÒrââö†öö·2÷W6U66†öÆ$FFs°¦–×÷'B°¢FÖ–äÆöv–âÀ¢7&VFU66†öÆ'6†—À¢FVÆWFT–ævW7FVDFö7VÖVçBÀ¢FVÆWFU66†öÆ'6†—À¢fWF6„FÖ–äæÇ—F–72À¢fWF6„FÖ–äÖRÀ¢fWF6„–ævW7FVDFö7VÖVçG2À¢fWF6…66†öÆ'6†—2À¢WFFU66†öÆ'6†—À¢WÆöEFdFö7VÖVçBÀ§Òg&öÒrââ÷6W'f–6W2ö’s°¦–×÷'BG—R°¢FÖ–äæÇ—F–72À¢–ævW7FVDFö7VÖVçBÀ¢66†öÆ'6†—À¢66†öÆ'6†—&6—2À¢66†öÆ'6†—G—RÀ¢6÷W&6U7FGW2À§Òg&öÒrââ÷G—W2÷66†öÆ'6†—s° ¦6öç7BDô´Tåõ5Dõ$tUô´U’Òw66†öÆ&•öFÖ–åö§wBs° ¦–çFW&f6Rf÷&Õ7FFR°¢–C¢7G&–æs°¢æÖS¢7G&–æs°¢&÷f–FW#¢7G&–æs°¢G—S¢66†öÆ'6†—G—S°¢&6—3¢66†öÆ'6†—&6—3°¢VGV6F–öåöÆWfVÃ¢7G&–æs°¢6÷W'6S¢7G&–æs°¢Ö–å÷W&6VçFvS¢7G&–æs°¢Ö–åö6w¢7G&–æs°¢Ö…öfÖ–Ç•ö–æ6öÖS¢7G&–æs°¢7FFW3¢7G&–æs°¢6FVv÷&–W3¢7G&–æs°¢Ö÷VçC¢7G&–æs°¢&WV—&VEöFö7VÖVçG3¢7G&–æs°¢FVFÆ–æS¢7G&–æs°¢öff–6–Å÷W&Ã¢7G&–æs°¢6÷W&6U÷7FGW3¢6÷W&6U7FGW3°¢Æ7E÷fW&–f–VC¢7G&–æs°¢FW67&—F–öã¢7G&–æs°¢VÆ–v–&–Æ—G•öæ÷FW3¢7G&–æs°¢Æ–6F–öå÷7FW3¢7G&–æs°¢vVæFW%÷&WV—&VÖVçC¢tÆÂrÂtfVÖÆRrÂtÖÆRs°§Ğ ¦6öç7BTÕE•ôdõ$Ó¢f÷&Õ7FFRÒ°¢–C¢rrÀ¢æÖS¢rrÀ¢&÷f–FW#¢rrÀ¢G—S¢vv÷fW&æÖVçBrÀ¢&6—3¢vÖW&—BrÀ¢VGV6F–öåöÆWfVÃ¢uTrrÀ¢6÷W'6S¢t"åFV6‚ÂVæv–æVW&–ærrÀ¢Ö–å÷W&6VçFvS¢rrÀ¢Ö–åö6w¢rrÀ¢Ö…öfÖ–Ç•ö–æ6öÖS¢rrÀ¢7FFW3¢tÆÂ–æF–rÀ¢6FVv÷&–W3¢tÆÂrÀ¢Ö÷VçC¢rrÀ¢&WV—&VEöFö7VÖVçG3¢tÖ&·6†VWBÂ–æ6öÖR6W'F–f–6FRÂ&öæf–FR6W'F–f–6FRrÀ¢FVFÆ–æS¢rrÀ¢öff–6–Å÷W&Ã¢v‡GG3¢ò÷66†öÆ'6†—2æv÷bæ–âòrÀ¢6÷W&6U÷7FGW3¢w6×ÆRrÀ¢Æ7E÷fW&–f–VC¢rrÀ¢FW67&—F–öã¢rrÀ¢VÆ–v–&–Æ—G•öæ÷FW3¢rrÀ¢Æ–6F–öå÷7FW3¢rrÀ¢vVæFW%÷&WV—&VÖVçC¢tÆÂrÀ§Ó° ¦gVæ7F–öâFôf÷&Õ7FFR‡3¢66†öÆ'6†—“¢f÷&Õ7FFR°¢&WGW&â°¢–C¢2æ–BÀ¢æÖS¢2ææÖRÀ¢&÷f–FW#¢2ç&÷f–FW"À¢G—S¢2çG—RÀ¢&6—3¢2æ&6—2À¢VGV6F–öåöÆWfVÃ¢2æVGV6F–öåöÆWfVÂæ¦ö–â‚rÂr’À¢6÷W'6S¢2æ6÷W'6Ræ¦ö–â‚rÂr’À¢Ö–å÷W&6VçFvS¢2æÖ–å÷W&6VçFvRÓÒçVÆÂò7G&–ær‡2æÖ–å÷W&6VçFvR’¢rrÀ¢Ö–åö6w¢2æÖ–åö6wÓÒçVÆÂò7G&–ær‡2æÖ–åö6w’¢rrÀ¢Ö…öfÖ–Ç•ö–æ6öÖS¢2æÖ…öfÖ–Ç•ö–æ6öÖRÓÒçVÆÂò7G&–ær‡2æÖ…öfÖ–Ç•ö–æ6öÖR’¢rrÀ¢7FFW3¢2ç7FFW2æ¦ö–â‚rÂr’À¢6FVv÷&–W3¢2æ6FVv÷&–W2æ¦ö–â‚rÂr’À¢Ö÷VçC¢2æÖ÷VçBÇÂrrÀ¢&WV—&VEöFö7VÖVçG3¢2ç&WV—&VEöFö7VÖVçG2æ¦ö–â‚rÂr’À¢FVFÆ–æS¢2æFVFÆ–æRÇÂrrÀ¢öff–6–Å÷W&Ã¢2æöff–6–Å÷W&ÂÀ¢6÷W&6U÷7FGW3¢2ç6÷W&6U÷7FGW2À¢Æ7E÷fW&–f–VC¢2æÆ7E÷fW&–f–VBÇÂrrÀ¢FW67&—F–öã¢2æFW67&—F–öâÇÂrrÀ¢VÆ–v–&–Æ—G•öæ÷FW3¢2æVÆ–v–&–Æ—G•öæ÷FW2ÇÂrrÀ¢Æ–6F–öå÷7FW3¢2æÆ–6F–öå÷7FW2æ¦ö–â‚uÆâr’À¢vVæFW%÷&WV—&VÖVçC¢‡2ævVæFW%÷&WV—&VÖVçB2tÆÂrÂtfVÖÆRrÂtÖÆRr’ÇÂtÆÂrÀ¢Ó°§Ğ ¦W‡÷'BgVæ7F–öâFÖ–åvR‚’°¢6öç7B²6†÷uFö7BÒÒW6U66†öÆ$FF‚“°¢6öç7B·Fö¶VâÂ6WEFö¶VåÒÒW6U7FFSÇ7G&–æsâ‚‚’Óâ6W76–öå7F÷&vRævWD—FVÒ…Dô´Tåõ5Dõ$tUô´U’’ÇÂrr“°¢6öç7B¶FÖ–åW6W"Â6WDFÖ–åW6W%ÒÒW6U7FFSÇ7G&–ærÂçVÆÃâ†çVÆÂ“°¢6öç7B·W6W&æÖRÂ6WEW6W&æÖUÒÒW6U7FFR‚vFÖ–âr“°¢6öç7B·77v÷&BÂ6WE77v÷&EÒÒW6U7FFR‚rr“°¢6öç7B¶WF„W'&÷"Â6WDWF„W'&÷%ÒÒW6U7FFSÇ7G&–ærÂçVÆÃâ†çVÆÂ“°¢6öç7B¶Æövv–æt–âÂ6WDÆövv–æt–åÒÒW6U7FFR†fÇ6R“° ¢6öç7B·F"Â6WEF%ÒÒW6U7FFSÂw66†öÆ'6†—2rÂvFö7VÖVçG2rÂvæÇ—F–72sâ‚w66†öÆ'6†—2r“°¢6öç7B·66†öÆ'6†—2Â6WE66†öÆ'6†—5ÒÒW6U7FFSÅ66†öÆ'6†—µÓâ…µÒ“°¢6öç7B¶Fö7VÖVçG2Â6WDFö7VÖVçG5ÒÒW6U7FFSÄ–ævW7FVDFö7VÖVçEµÓâ…µÒ“°¢6öç7B¶æÇ—F–72Â6WDæÇ—F–75ÒÒW6U7FFSÄFÖ–äæÇ—F–72ÂçVÆÃâ†çVÆÂ“°¢6öç7B·6V&6„f–ÇFW"Â6WE6V&6„f–ÇFW%ÒÒW6U7FFR‚rr“° ¢6öç7B¶ÖöFÄ÷VâÂ6WDÖöFÄ÷VåÒÒW6U7FFR†fÇ6R“°¢6öç7B¶VF—F–æt–BÂ6WDVF—F–æt–EÒÒW6U7FFSÇ7G&–ærÂçVÆÃâ†çVÆÂ“°¢6öç7B¶f÷&ÒÂ6WDf÷&ÕÒÒW6U7FFSÄf÷&Õ7FFSâ„TÕE•ôdõ$Ò“°¢6öç7B·6f–ærÂ6WE6f–æuÒÒW6U7FFR†fÇ6R“°¢6öç7B¶f÷&ÔW'&÷"Â6WDf÷&ÔW'&÷%ÒÒW6U7FFSÇ7G&–ærÂçVÆÃâ†çVÆÂ“° ¢6öç7B·Fdf–ÆRÂ6WEFdf–ÆUÒÒW6U7FFSÄf–ÆRÂçVÆÃâ†çVÆÂ“°¢6öç7B·Fe66†öÆ'6†—–BÂ6WEFe66†öÆ'6†—–EÒÒW6U7FFR‚rr“°¢6öç7B·WÆöF–æuFbÂ6WEWÆöF–æuFeÒÒW6U7FFR†fÇ6R“°¢6öç7B·FdW'&÷"Â6WEFdW'&÷%ÒÒW6U7FFSÇ7G&–ærÂçVÆÃâ†çVÆÂ“° ¢6öç7BÆöDF6†&ö&DFFÒ7–æ2†§wC¢7G&–ær’Óâ°¢G'’°¢6öç7B·66…&W2ÂFö5&W2Âæ&W5ÒÒv—B&öÖ—6RæÆÂ…°¢fWF6…66†öÆ'6†—2‡²vS¢ÂvU÷6—¦S¢Ò’À¢fWF6„–ævW7FVDFö7VÖVçG2†§wB’À¢fWF6„FÖ–äæÇ—F–72†§wB’À¢Ò“°¢6WE66†öÆ'6†—2‡66…&W2æ—FV×2“°¢6WDFö7VÖVçG2†Fö5&W2“°¢6WDæÇ—F–72†æ&W2“°¢Ò6F6‚†W'"’°¢6†÷uFö7B†W'"–ç7Fæ6VöbW'&÷"òW'"æÖW76vR¢tf–ÆVBFò&Vg&W6‚FÖ–âFFr“°¢Ğ¢Ó° ¢W6TVffV7B‚‚’Óâ°¢–b‚Fö¶Vâ’&WGW&ã°¢fWF6„FÖ–äÖR‡Fö¶Vâ¢çF†Vâ‚†ÖR’Óâ°¢6WDFÖ–åW6W"†ÖRçW6W&æÖR“°¢ÆöDF6†&ö&DFF‡Fö¶Vâ“°¢Ò¢æ6F6‚‚‚’Óâ°¢6W76–öå7F÷&vRç&VÖ÷fT—FVÒ…Dô´Tåõ5Dõ$tUô´U’“°¢6WEFö¶Vâ‚rr“°¢6WDFÖ–åW6W"†çVÆÂ“°¢Ò“°¢òòW6Æ–çBÖF—6&ÆRÖæW‡BÖÆ–æR&V7BÖ†öö·2öW††W7F—fRÖFW0¢ÒÂ·Fö¶VåÒ“° ¢6öç7B†æFÆTÆöv–âÒ7–æ2†S¢f÷&ÔWfVçB’Óâ°¢Rç&WfVçDFVfVÇB‚“°¢6WDÆövv–æt–â‡G'VR“°¢6WDWF„W'&÷"†çVÆÂ“°¢G'’°¢6öç7B&W2Òv—BFÖ–äÆöv–â‡W6W&æÖRÂ77v÷&B“°¢6W76–öå7F÷&vRç6WD—FVÒ…Dô´Tåõ5Dõ$tUô´U’Â&W2æ66W75÷Fö¶Vâ“°¢6WEFö¶Vâ‡&W2æ66W75÷Fö¶Vâ“°¢6WDFÖ–åW6W"‡&W2çW6W&æÖR“°¢6WE77v÷&B‚rr“°¢6†÷uFö7B‚u6–væVB–âFòFÖ–â6öç6öÆRr“°¢Ò6F6‚†W'"’°¢6WDWF„W'&÷"†W'"–ç7Fæ6VöbW'&÷"òW'"æÖW76vR¢tÆöv–âf–ÆVBr“°¢Òf–æÆÇ’°¢6WDÆövv–æt–â†fÇ6R“°¢Ğ¢Ó° ¢6öç7B†æFÆTÆöv÷WBÒ‚’Óâ°¢6W76–öå7F÷&vRç&VÖ÷fT—FVÒ…Dô´Tåõ5Dõ$tUô´U’“°¢6WEFö¶Vâ‚rr“°¢6WDFÖ–åW6W"†çVÆÂ“°¢Ó° ¢6öç7B7Æ—D77bÒ‡fÃ¢7G&–ær’Óà¢fÂç7Æ—B‚rÂr’æÖ‚‡2’Óâ2çG&–Ò‚’’æf–ÇFW"„&ööÆVâ“° ¢6öç7B†æFÆU6fU66†öÆ'6†—Ò7–æ2†S¢f÷&ÔWfVçB’Óâ°¢Rç&WfVçDFVfVÇB‚“°¢6WE6f–ær‡G'VR“°¢6WDf÷&ÔW'&÷"†çVÆÂ“° ¢6öç7B–ÆöBÒ°¢æÖS¢f÷&ÒææÖRçG&–Ò‚’À¢&÷f–FW#¢f÷&Òç&÷f–FW"çG&–Ò‚’À¢G—S¢f÷&ÒçG—RÀ¢&6—3¢f÷&Òæ&6—2À¢VGV6F–öåöÆWfVÃ¢7Æ—D77b†f÷&ÒæVGV6F–öåöÆWfVÂ’À¢6÷W'6S¢7Æ—D77b†f÷&Òæ6÷W'6R’À¢Ö–å÷W&6VçFvS¢f÷&ÒæÖ–å÷W&6VçFvRòçVÖ&W"†f÷&ÒæÖ–å÷W&6VçFvR’¢çVÆÂÀ¢Ö–åö6w¢f÷&ÒæÖ–åö6wòçVÖ&W"†f÷&ÒæÖ–åö6w’¢çVÆÂÀ¢Ö…öfÖ–Ç•ö–æ6öÖS¢f÷&ÒæÖ…öfÖ–Ç•ö–æ6öÖRòçVÖ&W"†f÷&ÒæÖ…öfÖ–Ç•ö–æ6öÖR’¢çVÆÂÀ¢7FFW3¢7Æ—D77b†f÷&Òç7FFW2’À¢6FVv÷&–W3¢7Æ—D77b†f÷&Òæ6FVv÷&–W2’À¢Ö÷VçC¢f÷&ÒæÖ÷VçBçG&–Ò‚’ÇÂçVÆÂÀ¢&WV—&VEöFö7VÖVçG3¢7Æ—D77b†f÷&Òç&WV—&VEöFö7VÖVçG2’À¢FVFÆ–æS¢f÷&ÒæFVFÆ–æRçG&–Ò‚’ÇÂçVÆÂÀ¢öff–6–Å÷W&Ã¢f÷&Òæöff–6–Å÷W&ÂçG&–Ò‚’À¢6÷W&6U÷7FGW3¢f÷&Òç6÷W&6U÷7FGW2À¢Æ7E÷fW&–f–VC¢f÷&ÒæÆ7E÷fW&–f–VBçG&–Ò‚’ÇÂçVÆÂÀ¢FW67&—F–öã¢f÷&ÒæFW67&—F–öâçG&–Ò‚’ÇÂçVÆÂÀ¢VÆ–v–&–Æ—G•öæ÷FW3¢f÷&ÒæVÆ–v–&–Æ—G•öæ÷FW2çG&–Ò‚’ÇÂçVÆÂÀ¢Æ–6F–öå÷7FW3¢f÷&ÒæÆ–6F–öå÷7FW0¢ç7Æ—B‚uÆâr¢æÖ‚‡2’Óâ2çG&–Ò‚’¢æf–ÇFW"„&ööÆVâ’À¢vVæFW%÷&WV—&VÖVçC¢f÷&ÒævVæFW%÷&WV—&VÖVçBÀ¢—5ö7F—fS¢G'VRÀ¢Ó° ¢G'’°¢–b†VF—F–æt–B’°¢v—BWFFU66†öÆ'6†—‡Fö¶VâÂVF—F–æt–BÂ–ÆöB“°¢6†÷uFö7B‚u66†öÆ'6†—WFFVBæB&RÖ–æFW†VB–â6‡&öÖD"r“°¢ÒVÇ6R°¢v—B7&VFU66†öÆ'6†—‡Fö¶VâÂ°¢ââç–ÆöBÀ¢–C¢f÷&Òæ–BçG&–Ò‚’ÇÂVæFVf–æVBÀ¢Ò“°¢6†÷uFö7B‚u66†öÆ'6†—7&VFVBæB–æFW†VB–â6‡&öÖD"r“°¢Ğ¢6WDÖöFÄ÷Vâ†fÇ6R“°¢v—BÆöDF6†&ö&DFF‡Fö¶Vâ“°¢Ò6F6‚†W'"’°¢6WDf÷&ÔW'&÷"†W'"–ç7Fæ6VöbW'&÷"òW'"æÖW76vR¢u6fRf–ÆVBr“°¢Òf–æÆÇ’°¢6WE6f–ær†fÇ6R“°¢Ğ¢Ó° ¢6öç7B†æFÆUFövvÆUfW&–f–6F–öâÒ7–æ2‡66ƒ¢66†öÆ'6†—’Óâ°¢6öç7BæW‡E7FGW3¢6÷W&6U7FGW2Ò66‚ç6÷W&6U÷7FGW2ÓÓÒwfW&–f–VBròw6×ÆRr¢wfW&–f–VBs°¢G'’°¢v—BWFFU66†öÆ'6†—‡Fö¶VâÂ66‚æ–BÂ°¢6÷W&6U÷7FGW3¢æW‡E7FGW2À¢Æ7E÷fW&–f–VC¢æW‡E7FGW2ÓÓÒwfW&–f–VBròæWrFFR‚’çFô•4õ7G&–ær‚’ç6Æ–6RƒÂ’¢66‚æÆ7E÷fW&–f–VBÀ¢Ò“°¢6†÷uFö7B†Ö&¶VB2G¶æW‡E7FGW7Ö“°¢v—BÆöDF6†&ö&DFF‡Fö¶Vâ“°¢Ò6F6‚†W'"’°¢6†÷uFö7B†W'"–ç7Fæ6VöbW'&÷"òW'"æÖW76vR¢uWFFRf–ÆVBr“°¢Ğ¢Ó° ¢6öç7B†æFÆTFVÆWFU66†öÆ'6†—Ò7–æ2†–C¢7G&–ærÂæÖS¢7G&–ær’Óâ°¢–b‚v–æF÷ræ6öæf—&Ò†FVÆWFR"G¶æÖWÒ#òF†—2&VÖ÷fW2—Bg&öÒ5Æ—FRæB6‡&öÖD"æ’’&WGW&ã°¢G'’°¢v—BFVÆWFU66†öÆ'6†—‡Fö¶VâÂ–B“°¢6†÷uFö7B‚u66†öÆ'6†—FVÆWFVBr“°¢v—BÆöDF6†&ö&DFF‡Fö¶Vâ“°¢Ò6F6‚†W'"’°¢6†÷uFö7B†W'"–ç7Fæ6VöbW'&÷"òW'"æÖW76vR¢tFVÆWFRf–ÆVBr“°¢Ğ¢Ó° ¢6öç7B†æFÆUWÆöEFbÒ7–æ2†S¢f÷&ÔWfVçB’Óâ°¢Rç&WfVçDFVfVÇB‚“°¢–b‚Fdf–ÆR’&WGW&ã°¢6WEWÆöF–æuFb‡G'VR“°¢6WEFdW'&÷"†çVÆÂ“°¢G'’°¢v—BWÆöEFdFö7VÖVçB‡Fö¶VâÂFdf–ÆRÂFe66†öÆ'6†—–BÇÂVæFVf–æVB“°¢6WEFdf–ÆR†çVÆÂ“°¢6WEFe66†öÆ'6†—–B‚rr“°¢6†÷uFö7B‚uDbW‡G&7FVBb–æFW†VB–çFò6‡&öÖD"r“°¢v—BÆöDF6†&ö&DFF‡Fö¶Vâ“°¢Ò6F6‚†W'"’°¢6WEFdW'&÷"†W'"–ç7Fæ6VöbW'&÷"òW'"æÖW76vR¢uDb–ævW7F–öâf–ÆVBr“°¢Òf–æÆÇ’°¢6WEWÆöF–æuFb†fÇ6R“°¢Ğ¢Ó° ¢6öç7B†æFÆTFVÆWFTFö2Ò7–æ2†Fö4–C¢7G&–ær’Óâ°¢G'’°¢v—BFVÆWFT–ævW7FVDFö7VÖVçB‡Fö¶VâÂFö4–B“°¢6†÷uFö7B‚tFö7VÖVçBFVÆWFVBg&öÒ6‡&öÖD"r“°¢v—BÆöDF6†&ö&DFF‡Fö¶Vâ“°¢Ò6F6‚†W'"’°¢6†÷uFö7B†W'"–ç7Fæ6VöbW'&÷"òW'"æÖW76vR¢tf–ÆVBFòFVÆWFRFö7VÖVçBr“°¢Ğ¢Ó° ¢–b‚FÖ–åW6W"’°¢&WGW&â€¢ÆF—b6Æ74æÖSÒ&Ö‚×rÖÖB×‚ÖWFò‚ÓB’Ób#à¢ÆF—b6Æ74æÖSÒ'&÷VæFVBÓ'†Â&÷&FW"&÷&FW"×6ÆFRÓ#F&³¦&÷&FW"×6ÆFRÓƒ&r×v†—FRF&³¦&r×6ÆFRÓ“Ób6Ó§Ó‚6†F÷r×6Ò#à¢ÆF—b6Æ74æÖSÒ&fÆW‚—FV×2Ö6VçFW"vÓ"ãRÖ"ÓB#à¢ÆF—b6Æ74æÖSÒ'rÓ‚Ó&÷VæFVB×†Â&rÖ&ÇVRÓSF&³¦&rÖ&ÇVRÓ“SósfÆW‚—FV×2Ö6VçFW"§W7F–g’Ö6VçFW"FW‡BÖ&ÇVRÓcF&³§FW‡BÖ&ÇVRÓC#à¢Å6†–VÆB6Æ74æÖSÒ'rÓR‚ÓR"óà¢ÂöF—cà¢ÆF—cà¢Æƒ6Æ74æÖSÒ'FW‡B×†ÂföçBÖ&öÆBFW‡B×6ÆFRÓ“F&³§FW‡B×v†—FR#äFÖ–â6öç6öÆSÂöƒà¢Ç6Æ74æÖSÒ'FW‡B×‡2FW‡B×6ÆFRÓSF&³§FW‡B×6ÆFRÓC#ä¥uBWF†VçF–6FVBÖævVÖVçCÂ÷à¢ÂöF—cà¢ÂöF—cà ¢Æf÷&Òöå7V&Ö—C×¶†æFÆTÆöv–çÒ6Æ74æÖSÒ'76R×’ÓB#à¢ÆF—cà¢ÆÆ&VÂ6Æ74æÖSÒ&&Æö6²FW‡B×‡2föçB×6VÖ–&öÆBFW‡B×6ÆFRÓsF&³§FW‡B×6ÆFRÓ3Ö"Ó#à¢W6W&æÖP¢ÂöÆ&VÃà¢Æ–çW@¢G—SÒ'FW‡B ¢&WV—&V@¢fÇVS×·W6W&æÖWĞ¢öä6†ævS×²†R’Óâ6WEW6W&æÖR†RçF&vWBçfÇVR—Ğ¢6Æ74æÖSÒ'rÖgVÆÂ&÷VæFVB×†Â&÷&FW"&÷&FW"×6ÆFRÓ#F&³¦&÷&FW"×6ÆFRÓs&r×6ÆFRÓSF&³¦&r×6ÆFRÓƒ‚Ó2ãR’Ó"ãRFW‡B×6Ò ¢óà¢ÂöF—cà¢ÆF—cà¢ÆÆ&VÂ6Æ74æÖSÒ&&Æö6²FW‡B×‡2föçB×6VÖ–&öÆBFW‡B×6ÆFRÓsF&³§FW‡B×6ÆFRÓ3Ö"Ó#à¢77v÷&@¢ÂöÆ&VÃà¢Æ–çW@¢G—SÒ'77v÷&B ¢&WV—&V@¢fÇVS×·77v÷&GĞ¢öä6†ævS×²†R’Óâ6WE77v÷&B†RçF&vWBçfÇVR—Ğ¢Æ6V†öÆFW#Ò$VçFW"FÖ–â77v÷&B ¢6Æ74æÖSÒ'rÖgVÆÂ&÷VæFVB×†Â&÷&FW"&÷&FW"×6ÆFRÓ#F&³¦&÷&FW"×6ÆFRÓs&r×6ÆFRÓSF&³¦&r×6ÆFRÓƒ‚Ó2ãR’Ó"ãRFW‡B×6Ò ¢óà¢ÂöF—cà ¢¶WF„W'&÷"bb€¢ÆF—b6Æ74æÖSÒ'&÷VæFVB×†Â&r×&÷6RÓSF&³¦&r×&÷6RÓ“SóS&÷&FW"&÷&FW"×&÷6RÓ#F&³¦&÷&FW"×&÷6RÓ“‚Ó2’Ó"FW‡B×‡2FW‡B×&÷6RÓsF&³§FW‡B×&÷6RÓ##à¢¶WF„W'&÷'Ğ¢ÂöF—cà¢—Ğ ¢Æ'WGFöà¢G—SÒ'7V&Ö—B ¢F—6&ÆVC×¶Æövv–æt–çĞ¢6Æ74æÖSÒ'rÖgVÆÂ&÷VæFVB×†Â&rÖ&ÇVRÓc’Ó"ãRFW‡B×6ÒföçB×6VÖ–&öÆBFW‡B×v†—FR†÷fW#¦&rÖ&ÇVRÓsF—6&ÆVC¦÷6—G’ÓS ¢à¢¶Æövv–æt–âòu6–væ–ær–ââââr¢u6–vâ–âwĞ¢Âö'WGFöãà ¢Ç6Æ74æÖSÒ'FW‡BÕ³…ÒFW‡B×6ÆFRÓSF&³§FW‡B×6ÆFRÓCFW‡BÖ6VçFW"#à¢7&VFVçF–Ç2&R6öæf–wW&VB–â&6¶VæBÆ6öFR6Æ74æÖSÒ'‚Ó&÷VæFVB&r×6ÆFRÓF&³¦&r×6ÆFRÓƒ#âæVçcÂö6öFSâƒÆ6öFR6Æ74æÖSÒ'‚Ó&÷VæFVB&r×6ÆFRÓF&³¦&r×6ÆFRÓƒ#äDÔ”åõU4U$äÔSÂö6öFSâòÆ6öFR6Æ74æÖSÒ'‚Ó&÷VæFVB&r×6ÆFRÓF&³¦&r×6ÆFRÓƒ#äDÔ”åõ55tõ$CÂö6öFSâ’à¢Â÷à¢Âöf÷&Óà¢ÂöF—cà¢ÂöF—cà¢“°¢Ğ ¢6öç7Bf–ÇFW&VE66†öÆ'6†—2Ò66†öÆ'6†—2æf–ÇFW"€¢‡2’Óà¢6V&6„f–ÇFW"çG&–Ò‚’ÇÀ¢2ææÖRçFôÆ÷vW$66R‚’æ–æ6ÇVFW2‡6V&6„f–ÇFW"çFôÆ÷vW$66R‚’’ÇÀ¢2ç&÷f–FW"çFôÆ÷vW$66R‚’æ–æ6ÇVFW2‡6V&6„f–ÇFW"çFôÆ÷vW$66R‚’¢“° ¢&WGW&â€¢ÆF—b6Æ74æÖSÒ&Ö‚×rÓw†Â×‚ÖWFò‚ÓB6Ó§‚Ób’Ó‚76R×’Ób#à¢ÆF—b6Æ74æÖSÒ&fÆW‚fÆW‚Ö6öÂ6Ó¦fÆW‚×&÷r6Ó¦—FV×2Ö6VçFW"§W7F–g’Ö&WGvVVâvÓB#à¢ÆF—cà¢Æƒ6Æ74æÖSÒ'FW‡BÓ'†Â6Ó§FW‡BÓ7†ÂföçBÖW‡G&&öÆBFW‡B×6ÆFRÓ“F&³§FW‡B×v†—FR#à¢FÖ–âF6†&ö&@¢Âöƒà¢Ç6Æ74æÖSÒ'FW‡B×‡2FW‡B×6ÆFRÓSF&³§FW‡B×6ÆFRÓC×BÓãR#à¢6–væVB–â2Ç7G&öæsç¶FÖ–åW6W'ÓÂ÷7G&öæsâ+r6†ævW27–æ2–ÖÖVF–FVÇ’Fò5Æ—FRÂ¶æ÷vÆVFvRw&‚f×²6‡&öÖD ¢Â÷à¢ÂöF—cà¢Æ'WGFöà¢G—SÒ&'WGFöâ ¢öä6Æ–6³×¶†æFÆTÆöv÷WGĞ¢6Æ74æÖSÒ&–æÆ–æRÖfÆW‚—FV×2Ö6VçFW"vÓãR&÷VæFVB×†Â&÷&FW"&÷&FW"×6ÆFRÓ#F&³¦&÷&FW"×6ÆFRÓs&r×v†—FRF&³¦&r×6ÆFRÓ“‚ÓB’Ó"FW‡B×‡2föçB×6VÖ–&öÆB†÷fW#¦&r×6ÆFRÓSF&³¦†÷fW#¦&r×6ÆFRÓƒ6VÆb×7F'B ¢à¢ÄÆöt÷WB6Æ74æÖSÒ'rÓ2ãR‚Ó2ãR"óà¢6–vâ÷W@¢Âö'WGFöãà¢ÂöF—cà ¢²ò¢F'2¢÷Ğ¢ÆF—b6Æ74æÖSÒ&fÆW‚fÆW‚×w&vÓ"&÷&FW"Ö"&÷&FW"×6ÆFRÓ#F&³¦&÷&FW"×6ÆFRÓƒ"Ó2#à¢µ°¢²–C¢w66†öÆ'6†—2rÂÆ&VÃ¢66†öÆ'6†—2‚G·66†öÆ'6†—2æÆVæwF‡Ò–Â–6öã¢FF&6RÒÀ¢²–C¢vFö7VÖVçG2rÂÆ&VÃ¢Db–ævW7F–öâ‚G¶Fö7VÖVçG2æÆVæwF‡Ò–Â–6öã¢f–ÆUWÒÀ¢²–C¢væÇ—F–72rÂÆ&VÃ¢tæÇ—F–72bf–ÆVB6V&6†W2rÂ–6öã¢&$6†'C2ÒÀ¢ÒæÖ‚‡B’Óâ€¢Æ'WGFöà¢¶W“×·Bæ–GĞ¢G—SÒ&'WGFöâ ¢öä6Æ–6³×²‚’Óâ6WEF"‡Bæ–B2G—VöbF"—Ğ¢6Æ74æÖS×¶–æÆ–æRÖfÆW‚—FV×2Ö6VçFW"vÓãR&÷VæFVB×†Â‚ÓB’Ó"FW‡B×‡2föçB×6VÖ–&öÆBG&ç6—F–öâÖ6öÆ÷'2G°¢F"ÓÓÒBæ–@¢òv&rÖ&ÇVRÓcFW‡B×v†—FRp¢¢v&r×v†—FRF&³¦&r×6ÆFRÓ“&÷&FW"&÷&FW"×6ÆFRÓ#F&³¦&÷&FW"×6ÆFRÓƒFW‡B×6ÆFRÓsF&³§FW‡B×6ÆFRÓ3†÷fW#¦&r×6ÆFRÓSF&³¦†÷fW#¦&r×6ÆFRÓƒp¢ÖĞ¢à¢ÇBæ–6öâ6Æ74æÖSÒ'rÓ2ãR‚Ó2ãR"óà¢Ç7ãç·BæÆ&VÇÓÂ÷7ãà¢Âö'WGFöãà¢’—Ğ¢ÂöF—cà ¢²ò¢F"¢66†öÆ'6†—25%TB¢÷Ğ¢·F"ÓÓÒw66†öÆ'6†—2rbb€¢ÆF—b6Æ74æÖSÒ'76R×’ÓB#à¢ÆF—b6Æ74æÖSÒ&fÆW‚fÆW‚Ö6öÂ6Ó¦fÆW‚×&÷r—FV×2×7G&WF6‚6Ó¦—FV×2Ö6VçFW"§W7F–g’Ö&WGvVVâvÓ2#íõÓ»h‘éì¶»§q«^uKN™Ë]Ú]H\šÎ˜™Ë\Û]KNLMˆÜXÙK^KM‚ˆˆÛ\ÜÓ˜[YOH^X˜\ÙH›ÛX›Û›^][\ËXÙ[\ˆØ\Lˆ‚ˆÚXÚĞÚ\˜ÛLˆÛ\ÜÓ˜[YOHËMM^Y[Y\˜[MŒˆÏ‚ˆ™\šYšXØ][Ûˆ	˜[\È™XİÜˆİÜ™Hİ]\ÂˆÚ‚ˆ]ˆÛ\ÜÓ˜[YOHœÜXÙK^KLˆ^^È‚ˆ]ˆÛ\ÜÓ˜[YOH™›^\İYKX™]ÙY[ˆ‚ˆÜ[•™\šYšYYØÚ[Y\ÏÜÜ[‚ˆİ›Û™ÏØ[˜[]XÜË™\šYšYYØÛİ[OÜİ›Û™Ï‚ˆÙ]‚ˆ]ˆÛ\ÜÓ˜[YOH™›^\İYKX™]ÙY[ˆ‚ˆÜ[”Ø[\HØÚ[Y\ÏÜÜ[‚ˆİ›Û™ÏØ[˜[]XÜËœØ[\WØÛİ[OÜİ›Û™Ï‚ˆÙ]‚ˆ]ˆÛ\ÜÓ˜[YOH™›^\İYKX™]ÙY[ˆ‚ˆÜ[Ú›ÛXQˆ[™^YØÚÛ\œÚ\ÏÜÜ[‚ˆİ›Û™ÏØ[˜[]XÜË™XİÜ—ØÛİ[ËœØÚÛ\œÚ\×Ú[™^YOÜİ›Û™Ï‚ˆÙ]‚ˆ]ˆÛ\ÜÓ˜[YOH™›^\İYKX™]ÙY[ˆ‚ˆÜ[Ú›ÛXQˆ[™^YˆÚ[šÜÏÜÜ[‚ˆİ›Û™ÏØ[˜[]XÜË™XİÜ—ØÛİ[Ë™Øİ[Y[ØÚ[šÜ×Ú[™^YOÜİ›Û™Ï‚ˆÙ]‚ˆ]ˆÛ\ÜÓ˜[YOH™›^\İYKX™]ÙY[ˆ‚ˆÜ[‘[X™Y[™È[ÙOÜÜ[‚ˆİ›Û™ÈÛ\ÜÓ˜[YOH\\˜Ø\ÙHØ[˜[]XÜË™XİÜ—ØÛİ[Ë™[X™Y[™×Û[Ù_OÜİ›Û™Ï‚ˆÙ]‚ˆÙ]‚‚ˆ]ˆÛ\ÜÓ˜[YOHœLÈ›Ü™\‹]›Ü™\‹\Û]KLL\šÎ˜›Ü™\‹\Û]KN‚ˆÛ\ÜÓ˜[YOH^^È›ÛX›ÛX‹Lˆ’[[œ™XZÙİÛÜ‚ˆ]ˆÛ\ÜÓ˜[YOH™›^›^]Ü˜\Ø\Lˆ‚ˆÓØš™Xİ™[šY\Ê[˜[]XÜËš[[Øœ™XZÙİÛŠK›X\
+import { useEffect, useState, type FormEvent } from 'react';
+import {
+  AlertTriangle,
+  BarChart3,
+  CheckCircle2,
+  Database,
+  Edit3,
+  FileUp,
+  LogOut,
+  Plus,
+  Shield,
+  Trash2,
+  X,
+} from 'lucide-react';
+import { SourceBadge } from '../components/SourceBadge';
+import { useScholarData } from '../hooks/useScholarData';
+import {
+  adminLogin,
+  createScholarship,
+  deleteIngestedDocument,
+  deleteScholarship,
+  fetchAdminAnalytics,
+  fetchAdminMe,
+  fetchIngestedDocuments,
+  fetchScholarships,
+  updateScholarship,
+  uploadPdfDocument,
+} from '../services/api';
+import type {
+  AdminAnalytics,
+  IngestedDocument,
+  Scholarship,
+  ScholarshipBasis,
+  ScholarshipType,
+  SourceStatus,
+} from '../types/scholarship';
 
-ÚË—JHOˆ
-ˆÜ[ˆÙ^O^ÚßHÛ\ÜÓ˜[YOHœ›İ[™Y[È™Ë\Û]KLL\šÎ˜™Ë\Û]KNL‹HKLH^^È‚ˆÚßNˆİ›Û™ÏİŸOÜİ›Û™Ï‚ˆÜÜ[‚ˆ
-J_BˆÙ]‚ˆÙ]‚ˆÙ]‚‚ˆ]ˆÛ\ÜÓ˜[YOHœ›İ[™YL›Ü™\ˆ›Ü™\‹\Û]KLŒ\šÎ˜›Ü™\‹\Û]KN™Ë]Ú]H\šÎ˜™Ë\Û]KNLMˆÜXÙK^KLÈ‚ˆˆÛ\ÜÓ˜[YOH^X˜\ÙH›ÛX›Û›^][\ËXÙ[\ˆØ\Lˆ‚ˆ[\šX[™ÛHÛ\ÜÓ˜[YOHËMM^X[X™\‹MŒˆÏ‚ˆ™XÙ[˜Z[YÙX\˜Ú\È
-ÛÛ[Ø\ÊBˆÚ‚ˆØ[˜[]XÜËœ™XÙ[Ù˜Z[YÜÙX\˜Ú\Ë›[™İOOHÈ
-ˆÛ\ÜÓ˜[YOH^^È^\Û]KML“›È™\›Ë\™\İ[ÙX\˜Ú\È™XÛÜ™YY]Ü‚ˆ
-Hˆ
-ˆ]ˆÛ\ÜÓ˜[YOHœÜXÙK^KLˆX^ZMİ™\™›İË^KX]]È‚ˆØ[˜[]XÜËœ™XÙ[Ù˜Z[YÜÙX\˜Ú\Ë›X\
+const TOKEN_STORAGE_KEY = 'scholarai_admin_jwt';
 
-ŠHOˆ
-ˆ]‚ˆÙ^O^Ù‹šYBˆÛ\ÜÓ˜[YOHœ›İ[™Y^›Ü™\ˆ›Ü™\‹\Û]KLŒ\šÎ˜›Ü™\‹\Û]KNL‹H^^È›^][\ËXÙ[\ˆ\İYKX™]ÙY[ˆØ\Lˆ‚ˆ‚ˆÜ[ˆÛ\ÜÓ˜[YOH™›Û[YY][H^\Û]KN\šÎ^\Û]KLŒ[˜Ø]HÙ‹œ]Y\_OÜÜ[‚ˆÜ[ˆÛ\ÜÓ˜[YOH^VÌL\H^\Û]KMÚš[šËLÙ‹™[™Ú[OÜÜ[‚ˆÙ]‚ˆ
-J_BˆÙ]‚ˆ
-_BˆÙ]‚ˆÙ]‚ˆÙ]‚ˆ
-_B‚ˆËÊˆYÈY][Ù[
-‹ßBˆÛ[Ù[Ü[ˆ	‰ˆ
-ˆ]‚ˆÛ\ÜÓ˜[YOH™š^Y[œÙ]L‹ML›^][\ËXÙ[\ˆ\İYKXÙ[\ˆ™Ë\Û]KNMLÍŒ˜XÚÙ›ÜX›\‹^ÈM‚ˆ›ÛOH™X[ÙÈ‚ˆ\šXK[[Ù[HYH‚ˆ‚ˆ]ˆÛ\ÜÓ˜[YOHËY[X^]ËLX^ZVÎLšHİ™\™›İË^KX]]È›İ[™YL›Ü™\ˆ›Ü™\‹\Û]KLŒ\šÎ˜›Ü™\‹\Û]KN™Ë]Ú]H\šÎ˜™Ë\Û]KNLMˆÚYİË^‚ˆ]ˆÛ\ÜÓ˜[YOH™›^][\ËXÙ[\ˆ\İYKX™]ÙY[ˆX‹M‚ˆˆÛ\ÜÓ˜[YOH^[È›ÛX›Û^\Û]KNL\šÎ^]Ú]H‚ˆÙY][™ÒYÈ	ÑY]ØÚÛ\œÚ\	Èˆ	ĞY™]ÈØÚÛ\œÚ\	ßBˆÚ‚ˆ]Ûˆ\OH˜]ÛˆˆÛÛXÚÏ^Ê
-HOˆÙ][Ù[Ü[Š˜[ÙJ_HÛ\ÜÓ˜[YOHœLKH›İ[™Y[Èİ™\˜™Ë\Û]KLL\šÎšİ™\˜™Ë\Û]KN‚ˆÛ\ÜÓ˜[YOHËMMˆÏ‚ˆØ]Û‚ˆÙ]‚‚ˆ›Ü›HÛ”İX›Z]^Ú[™TØ]™TØÚÛ\œÚ\HÛ\ÜÓ˜[YOHœÜXÙK^KLÈ^^È‚ˆ]ˆÛ\ÜÓ˜[YOH™ÜšYÜšYXÛÛËLHÛN™ÜšYXÛÛËLˆØ\LÈ‚ˆÈYY][™ÒY	‰ˆ
-ˆ]‚ˆX™[Û\ÜÓ˜[YOH˜›ØÚÈ›Û\Ù[ZX›ÛX‹LH”ÛYÈQ
-Ü[Û˜[
-OÛX™[‚ˆ[œ]ˆ\OH^‚ˆ˜[YO^Ù›Ü›KšYBˆÛÚ[™ÙO^ÊJHOˆÙ]›Ü›JÈ‹‹™›Ü›KYˆK\™Ù]˜[YHJ_BˆXÙZÛ\H˜]]ËYÙ[™\˜]YYˆ[\H‚ˆÛ\ÜÓ˜[YOHËY[›İ[™Y^›Ü™\ˆ›Ü™\‹\Û]KLŒ\šÎ˜›Ü™\‹\Û]KMÌ™Ë\Û]KML\šÎ˜™Ë\Û]KNLÈKLˆ‚ˆÏ‚ˆÙ]‚ˆ
-_Bˆ]ˆÛ\ÜÓ˜[YO^ÙY][™ÒYÈ	ÜÛN˜ÛÛ\Ü[‹L‰Èˆ	ÉßO‚ˆX™[Û\ÜÓ˜[YOH˜›ØÚÈ›Û\Ù[ZX›ÛX‹LH”ØÚÛ\œÚ\˜[YH
-ÛX™[‚ˆ[œ]ˆ\OH^‚ˆ™\]Z\™Yˆ˜[YO^Ù›Ü›K›˜[Y_BˆÛÚ[™ÙO^ÊJHOˆÙ]›Ü›JÈ‹‹™›Ü›K˜[YNˆK\™Ù]˜[YHJ_BˆÛ\ÜÓ˜[YOHËY[›İ[™Y^›Ü™\ˆ›Ü™\‹\Û]KLŒ\šÎ˜›Ü™\‹\Û]KMÌ™Ë\Û]KML\šÎ˜™Ë\Û]KNLÈKLˆ‚ˆÏ‚ˆÙ]‚ˆ]‚ˆX™[Û\ÜÓ˜[YOH˜›ØÚÈ›Û\Ù[ZX›ÛX‹LH”›İšY\ˆÜ™Ø[š^˜][Ûˆ
-ÛX™[‚ˆ[œ]ˆ\OH^‚ˆ™\]Z\™Yˆ˜[YO^Ù›Ü›Kœ›İšY\ŸBˆÛÚ[™ÙO^ÊJHOˆÙ]›Ü›JÈ‹‹™›Ü›K›İšY\ˆK\™Ù]˜[YHJ_BˆÛ\ÜÓ˜[YOHËY[›İ[™Y^›Ü™\ˆ›Ü™\‹\Û]KLŒ\šÎ˜›Ü™\‹\Û]KMÌ™Ë\Û]KML\šÎ˜™Ë\Û]KNLÈKLˆ‚ˆÏ‚ˆÙ]‚ˆ]‚ˆX™[Û\ÜÓ˜[YOH˜›ØÚÈ›Û\Ù[ZX›ÛX‹LH“Ù™šXÚX[T“
-ÛX™[‚ˆ[œ]ˆ\OH\›‚ˆ™\]Z\™Yˆ˜[YO^Ù›Ü›K›Ù™šXÚX[İ\›BˆÛÚ[™ÙO^ÊJHOˆÙ]›Ü›JÈ‹‹™›Ü›KÙ™šXÚX[İ\›ˆK\™Ù]˜[YHJ_BˆÛ\ÜÓ˜[YOHËY[›İ[™Y^›Ü™\ˆ›Ü™\‹\Û]KLŒ\šÎ˜›Ü™\‹\Û]KMÌ™Ë\Û]KML\šÎ˜™Ë\Û]KNLÈKLˆ‚ˆÏ‚ˆÙ]‚ˆ]‚ˆX™[Û\ÜÓ˜[YOH˜›ØÚÈ›Û\Ù[ZX›ÛX‹LH•\OÛX™[‚ˆÙ[Xİˆ˜[YO^Ù›Ü›K\_BˆÛÚ[™ÙO^ÊJHOˆÙ]›Ü›JÈ‹‹™›Ü›K\NˆK\™Ù]˜[YH\ÈØÚÛ\œÚ\\HJ_BˆÛ\ÜÓ˜[YOHËY[›İ[™Y^›Ü™\ˆ›Ü™\‹\Û]KLŒ\šÎ˜›Ü™\‹\Û]KMÌ™Ë\Û]KML\šÎ˜™Ë\Û]KNLÈKLˆ‚ˆ‚ˆÜ[Ûˆ˜[YOH™Ûİ™\››Y[™Ûİ™\››Y[ÛÜ[Û‚ˆÜ[Ûˆ˜[YOHœš]˜]Hœš]˜]OÛÜ[Û‚ˆÜ[Ûˆ˜[YOH[š]™\œÚ]H[š]™\œÚ]OÛÜ[Û‚ˆÜÙ[Xİ‚ˆÙ]‚ˆ]‚ˆX™[Û\ÜÓ˜[YOH˜›ØÚÈ›Û\Ù[ZX›ÛX‹LH˜\Ú\ÏÛX™[‚ˆÙ[Xİˆ˜[YO^Ù›Ü›K˜˜\Ú\ßBˆÛÚ[™ÙO^ÊJHOˆÙ]›Ü›JÈ‹‹™›Ü›K˜\Ú\ÎˆK\™Ù]˜[YH\ÈØÚÛ\œÚ\˜\Ú\ÈJ_BˆÛ\ÜÓ˜[YOHËY[›İ[™Y^›Ü™\ˆ›Ü™\‹\Û]KLŒ\šÎ˜›Ü™\‹\Û]KMÌ™Ë\Û]KML\šÎ˜™Ë\Û]KNLÈKLˆ‚ˆ‚ˆÜ[Ûˆ˜[YOH›Y\š]›Y\š]ÛÜ[Û‚ˆÜ[Ûˆ˜[YOH›™YY›™YYÛÜ[Û‚ˆÜ[Ûˆ˜[YOH˜Ø]YÛÜH˜Ø]YÛÜOÛÜ[Û‚ˆÜÙ[Xİ‚ˆÙ]‚ˆ]‚ˆX™[Û\ÜÓ˜[YOH˜›ØÚÈ›Û\Ù[ZX›ÛX‹LH‘YXØ][Ûˆ]™[È
-ÛÛ[XK\Ù\\˜]Y
-H
-ÛX™[‚ˆ[œ]ˆ\OH^‚ˆ™\]Z\™Yˆ˜[YO^Ù›Ü›K™YXØ][Û—Û]™[BˆÛÚ[™ÙO^ÊJHOˆÙ]›Ü›JÈ‹‹™›Ü›KYXØ][Û—Û]™[ˆK\™Ù]˜[YHJ_BˆÛ\ÜÓ˜[YOHËY[›İ[™Y^›Ü™\ˆ›Ü™\‹\Û]KLŒ\šÎ˜›Ü™\‹\Û]KMÌ™Ë\Û]KML\šÎ˜™Ë\Û]KNLÈKLˆ‚ˆÏ‚ˆÙ]‚ˆ]‚ˆX™[Û\ÜÓ˜[YOH˜›ØÚÈ›Û\Ù[ZX›ÛX‹LHÛİ\œÙ\È
-ÛÛ[XK\Ù\\˜]Y
-H
-ÛX™[‚ˆ[œ]ˆ\OH^‚ˆ™\]Z\™Yˆ˜[YO^Ù›Ü›K˜Ûİ\œÙ_BˆÛÚ[™ÙO^ÊJHOˆÙ]›Ü›JÈ‹‹™›Ü›KÛİ\œÙNˆK\™Ù]˜[YHJ_BˆÛ\ÜÓ˜[YOHËY[›İ[™Y^›Ü™\ˆ›Ü™\‹\Û]KLŒ\šÎ˜›Ü™\‹\Û]KMÌ™Ë\Û]KML\šÎ˜™Ë\Û]KNLÈKLˆ‚ˆÏ‚ˆÙ]‚ˆ]‚ˆX™[Û\ÜÓ˜[YOH˜›ØÚÈ›Û\Ù[ZX›ÛX‹LH“Z[ˆ\˜Ù[YÙH
-	JOÛX™[‚ˆ[œ]ˆ\OH›[X™\ˆ‚ˆİ\HŒŒH‚ˆ˜[YO^Ù›Ü›K›Z[—Ü\˜Ù[YÙ_BˆÛÚ[™ÙO^ÊJHOˆÙ]›Ü›JÈ‹‹™›Ü›KZ[—Ü\˜Ù[YÙNˆK\™Ù]˜[YHJ_BˆÛ\ÜÓ˜[YOHËY[›İ[™Y^›Ü™\ˆ›Ü™\‹\Û]KLŒ\šÎ˜›Ü™\‹\Û]KMÌ™Ë\Û]KML\šÎ˜™Ë\Û]KNLÈKLˆ‚ˆÏ‚ˆÙ]‚ˆ]‚ˆX™[Û\ÜÓ˜[YOH˜›ØÚÈ›Û\Ù[ZX›ÛX‹LH“Z[ˆÑÔH
-LL
-OÛX™[‚ˆ[œ]ˆ\OH›[X™\ˆ‚ˆİ\HŒŒH‚ˆ˜[YO^Ù›Ü›K›Z[—ØÙÜ_BˆÛÚ[™ÙO^ÊJHOˆÙ]›Ü›JÈ‹‹™›Ü›KZ[—ØÙÜNˆK\™Ù]˜[YHJ_BˆÛ\ÜÓ˜[YOHËY[›İ[™Y^›Ü™\ˆ›Ü™\‹\Û]KLŒ\šÎ˜›Ü™\‹\Û]KMÌ™Ë\Û]KML\šÎ˜™Ë\Û]KNLÈKLˆ‚ˆÏ‚ˆÙ]‚ˆ]‚ˆX™[Û\ÜÓ˜[YOH˜›ØÚÈ›Û\Ù[ZX›ÛX‹LH“X^˜[Z[H[˜ÛÛYH
-8 ®HS”ŠOÛX™[‚ˆ[œ]ˆ\OH›[X™\ˆ‚ˆ˜[YO^Ù›Ü›K›X^Ù˜[Z[WÚ[˜ÛÛY_BˆÛÚ[™ÙO^ÊJHOˆÙ]›Ü›JÈ‹‹™›Ü›KX^Ù˜[Z[WÚ[˜ÛÛYNˆK\™Ù]˜[YHJ_BˆÛ\ÜÓ˜[YOHËY[›İ[™Y^›Ü™\ˆ›Ü™\‹\Û]KLŒ\šÎ˜›Ü™\‹\Û]KMÌ™Ë\Û]KML\šÎ˜™Ë\Û]KNLÈKLˆ‚ˆÏ‚ˆÙ]‚ˆ]‚ˆX™[Û\ÜÓ˜[YOH˜›ØÚÈ›Û\Ù[ZX›ÛX‹LH[[İ[È™[™Yš]ÛX™[‚ˆ[œ]ˆ\OH^‚ˆ˜[YO^Ù›Ü›K˜[[İ[BˆÛÚ[™ÙO^ÊJHOˆÙ]›Ü›JÈ‹‹™›Ü›K[[İ[ˆK\™Ù]˜[YHJ_BˆÛ\ÜÓ˜[YOHËY[›İ[™Y^›Ü™\ˆ›Ü™\‹\Û]KLŒ\šÎ˜›Ü™\‹\Û]KMÌ™Ë\Û]KML\šÎ˜™Ë\Û]KNLÈKLˆ‚ˆÏ‚ˆÙ]‚ˆ]‚ˆX™[Û\ÜÓ˜[YOH˜›ØÚÈ›Û\Ù[ZX›ÛX‹LH”İ]\È
-ÛÛ[XK\Ù\\˜]Y
-H
-ÛX™[‚ˆ[œ]ˆ\OH^‚ˆ™\]Z\™Yˆ˜[YO^Ù›Ü›Kœİ]\ßBˆÛÚ[™ÙO^ÊJHOˆÙ]›Ü›JÈ‹‹™›Ü›Kİ]\ÎˆK\™Ù]˜[YHJ_BˆÛ\ÜÓ˜[YOHËY[›İ[™Y^›Ü™\ˆ›Ü™\‹\Û]KLŒ\šÎ˜›Ü™\‹\Û]KMÌ™Ë\Û]KML\šÎ˜™Ë\Û]KNLÈKLˆ‚ˆÏ‚ˆÙ]‚ˆ]‚ˆX™[Û\ÜÓ˜[YOH˜›ØÚÈ›Û\Ù[ZX›ÛX‹LHØ]YÛÜšY\È
-ÛÛ[XK\Ù\\˜]Y
-H
-ÛX™[‚ˆ[œ]ˆ\OH^‚ˆ™\]Z\™Yˆ˜[YO^Ù›Ü›K˜Ø]YÛÜšY\ßBˆÛÚ[™ÙO^ÊJHOˆÙ]›Ü›JÈ‹‹™›Ü›KØ]YÛÜšY\ÎˆK\™Ù]˜[YHJ_BˆÛ\ÜÓ˜[YOHËY[›İ[™Y^›Ü™\ˆ›Ü™\‹\Û]KLŒ\šÎ˜›Ü™\‹\Û]KMÌ™Ë\Û]KML\šÎ˜™Ë\Û]KNLÈKLˆ‚ˆÏ‚ˆÙ]‚ˆ]‚ˆX™[Û\ÜÓ˜[YOH˜›ØÚÈ›Û\Ù[ZX›ÛX‹LH‘XY[™H
-VVVKSSKQÜˆ›[šÊOÛX™[‚ˆ[œ]ˆ\OH^‚ˆ˜[YO^Ù›Ü›K™XY[™_BˆÛÚ[™ÙO^ÊJHOˆÙ]›Ü›JÈ‹‹™›Ü›KXY[™NˆK\™Ù]˜[YHJ_BˆXÙZÛ\H“X]™H›[šÈYˆ[˜ÛÛ™š\›YY‚ˆÛ\ÜÓ˜[YOHËY[›İ[™Y^›Ü™\ˆ›Ü™\‹\Û]KLŒ\šÎ˜›Ü™\‹\Û]KMÌ™Ë\Û]KML\šÎ˜™Ë\Û]KNLÈKLˆ‚ˆÏ‚ˆÙ]‚ˆ]‚ˆX™[Û\ÜÓ˜[YOH˜›ØÚÈ›Û\Ù[ZX›ÛX‹LH”Ûİ\˜ÙHİ]\ÏÛX™[‚ˆÙ[Xİˆ˜[YO^Ù›Ü›KœÛİ\˜ÙWÜİ]\ßBˆÛÚ[™ÙO^ÊJHOˆÙ]›Ü›JÈ‹‹™›Ü›KÛİ\˜ÙWÜİ]\ÎˆK\™Ù]˜[YH\ÈÛİ\˜ÙTİ]\ÈJ_BˆÛ\ÜÓ˜[YOHËY[›İ[™Y^›Ü™\ˆ›Ü™\‹\Û]KLŒ\šÎ˜›Ü™\‹\Û]KMÌ™Ë\Û]KML\šÎ˜™Ë\Û]KNLÈKLˆ‚ˆ‚ˆÜ[Ûˆ˜[YOH™\šYšYY™\šYšYYÛÜ[Û‚ˆÜ[Ûˆ˜[YOHœØ[\HœØ[\OÛÜ[Û‚ˆÜÙ[Xİ‚ˆÙ]‚ˆÙ]‚‚ˆ]‚ˆX™[Û\ÜÓ˜[YOH˜›ØÚÈ›Û\Ù[ZX›ÛX‹LH”™\]Z\™YØİ[Y[È
-ÛÛ[XK\Ù\\˜]Y
-OÛX™[‚ˆ[œ]ˆ\OH^‚ˆ˜[YO^Ù›Ü›Kœ™\]Z\™YÙØİ[Y[ßBˆÛÚ[™ÙO^ÊJHOˆÙ]›Ü›JÈ‹‹™›Ü›K™\]Z\™YÙØİ[Y[ÎˆK\™Ù]˜[YHJ_BˆÛ\ÜÓ˜[YOHËY[›İ[™Y^›Ü™\ˆ›Ü™\‹\Û]KLŒ\šÎ˜›Ü™\‹\Û]KMÌ™Ë\Û]KML\šÎ˜™Ë\Û]KNLÈKLˆ‚ˆÏ‚ˆÙ]‚‚ˆ]‚ˆX™[Û\ÜÓ˜[YOH˜›ØÚÈ›Û\Ù[ZX›ÛX‹LH‘\ØÜš\[ÛÛX™[‚ˆ^\™XBˆ›İÜÏ^ÌŸBˆ˜[YO^Ù›Ü›K™\ØÜš\[ÛŸBˆÛÚ[™ÙO^ÊJHOˆÙ]›Ü›JÈ‹‹™›Ü›K\ØÜš\[ÛˆK\™Ù]˜[YHJ_BˆÛ\ÜÓ˜[YOHËY[›İ[™Y^›Ü™\ˆ›Ü™\‹\Û]KLŒ\šÎ˜›Ü™\‹\Û]KMÌ™Ë\Û]KML\šÎ˜™Ë\Û]KNLÈKLˆ‚ˆÏ‚ˆÙ]‚‚ˆÙ›Ü›Q\œ›Üˆ	‰ˆ
-ˆ]ˆÛ\ÜÓ˜[YOHœ›İ[™Y^™Ë\›ÜÙKML\šÎ˜™Ë\›ÜÙKNMLÍL›Ü™\ˆ›Ü™\‹\›ÜÙKLŒLÈKLˆ^\›ÜÙKMÌ\šÎ^\›ÜÙKLŒ‚ˆÙ›Ü›Q\œ›ÜŸBˆÙ]‚ˆ
-_B‚ˆ]ˆÛ\ÜÓ˜[YOH™›^\İYKY[™Ø\LˆLÈ›Ü™\‹]›Ü™\‹\Û]KLŒ\šÎ˜›Ü™\‹\Û]KN‚ˆ]Û‚ˆ\OH˜]Ûˆ‚ˆÛÛXÚÏ^Ê
-HOˆÙ][Ù[Ü[Š˜[ÙJ_BˆÛ\ÜÓ˜[YOHœ›İ[™Y^›Ü™\ˆ›Ü™\‹\Û]KLŒ\šÎ˜›Ü™\‹\Û]KMÌMKLˆ›Û\Ù[ZX›Û‚ˆ‚ˆØ[˜Ù[ˆØ]Û‚ˆ]Û‚ˆ\OHœİX›Z]‚ˆ\ØX›Y^ÜØ]š[™ßBˆÛ\ÜÓ˜[YOHœ›İ[™Y^™ËX›YKMŒMHKLˆ›Û\Ù[ZX›Û^]Ú]Hİ™\˜™ËX›YKMÌ\ØX›Y›ÜXÚ]KML‚ˆ‚ˆÜØ]š[™ÈÈ	ÔØ]š[™Ë‹‹‰ÈˆY][™ÒYÈ	Õ\]HØÚÛ\œÚ\	Èˆ	ĞÜ™X]HØÚÛ\œÚ\	ßBˆØ]Û‚ˆÙ]‚ˆÙ›Ü›O‚ˆÙ]‚ˆÙ]‚ˆ
-_BˆÙ]‚ˆ
-NÂŸB
+interface FormState {
+  id: string;
+  name: string;
+  provider: string;
+  type: ScholarshipType;
+  basis: ScholarshipBasis;
+  education_level: string;
+  course: string;
+  min_percentage: string;
+  min_cgpa: string;
+  max_family_income: string;
+  states: string;
+  categories: string;
+  amount: string;
+  required_documents: string;
+  deadline: string;
+  official_url: string;
+  source_status: SourceStatus;
+  last_verified: string;
+  description: string;
+  eligibility_notes: string;
+  application_steps: string;
+  gender_requirement: 'All' | 'Female' | 'Male';
+}
+
+const EMPTY_FORM: FormState = {
+  id: '',
+  name: '',
+  provider: '',
+  type: 'government',
+  basis: 'merit',
+  education_level: 'UG',
+  course: 'B.Tech, Engineering',
+  min_percentage: '',
+  min_cgpa: '',
+  max_family_income: '',
+  states: 'All India',
+  categories: 'All',
+  amount: '',
+  required_documents: 'Marksheet, Income Certificate, Bonafide Certificate',
+  deadline: '',
+  official_url: 'https://scholarships.gov.in/',
+  source_status: 'sample',
+  last_verified: '',
+  description: '',
+  eligibility_notes: '',
+  application_steps: '',
+  gender_requirement: 'All',
+};
+
+function toFormState(s: Scholarship): FormState {
+  return {
+    id: s.id,
+    name: s.name,
+    provider: s.provider,
+    type: s.type,
+    basis: s.basis,
+    education_level: s.education_level.join(', '),
+    course: s.course.join(', '),
+    min_percentage: s.min_percentage !== null ? String(s.min_percentage) : '',
+    min_cgpa: s.min_cgpa !== null ? String(s.min_cgpa) : '',
+    max_family_income: s.max_family_income !== null ? String(s.max_family_income) : '',
+    states: s.states.join(', '),
+    categories: s.categories.join(', '),
+    amount: s.amount || '',
+    required_documents: s.required_documents.join(', '),
+    deadline: s.deadline || '',
+    official_url: s.official_url,
+    source_status: s.source_status,
+    last_verified: s.last_verified || '',
+    description: s.description || '',
+    eligibility_notes: s.eligibility_notes || '',
+    application_steps: s.application_steps.join('\n'),
+    gender_requirement: (s.gender_requirement as 'All' | 'Female' | 'Male') || 'All',
+  };
+}
+
+export function AdminPage() {
+  const { showToast } = useScholarData();
+  const [token, setToken] = useState<string>(() => sessionStorage.getItem(TOKEN_STORAGE_KEY) || '');
+  const [adminUser, setAdminUser] = useState<string | null>(null);
+  const [username, setUsername] = useState('admin');
+  const [password, setPassword] = useState('');
+  const [authError, setAuthError] = useState<string | null>(null);
+  const [loggingIn, setLoggingIn] = useState(false);
+
+  const [tab, setTab] = useState<'scholarships' | 'documents' | 'analytics'>('scholarships');
+  const [scholarships, setScholarships] = useState<Scholarship[]>([]);
+  const [documents, setDocuments] = useState<IngestedDocument[]>([]);
+  const [analytics, setAnalytics] = useState<AdminAnalytics | null>(null);
+  const [searchFilter, setSearchFilter] = useState('');
+
+  const [modalOpen, setModalOpen] = useState(false);
+  const [editingId, setEditingId] = useState<string | null>(null);
+  const [form, setForm] = useState<FormState>(EMPTY_FORM);
+  const [saving, setSaving] = useState(false);
+  const [formError, setFormError] = useState<string | null>(null);
+
+  const [pdfFile, setPdfFile] = useState<File | null>(null);
+  const [pdfScholarshipId, setPdfScholarshipId] = useState('');
+  const [uploadingPdf, setUploadingPdf] = useState(false);
+  const [pdfError, setPdfError] = useState<string | null>(null);
+
+  const loadDashboardData = async (jwt: string) => {
+    try {
+      const [schRes, docRes, anaRes] = await Promise.all([
+        fetchScholarships({ page: 1, page_size: 100 }),
+        fetchIngestedDocuments(jwt),
+        fetchAdminAnalytics(jwt),
+      ]);
+      setScholarships(schRes.items);
+      setDocuments(docRes);
+      setAnalytics(anaRes);
+    } catch (err) {
+      showToast(err instanceof Error ? err.message : 'Failed to refresh admin data');
+    }
+  };
+
+  useEffect(() => {
+    if (!token) return;
+    fetchAdminMe(token)
+      .then((me) => {
+        setAdminUser(me.username);
+        loadDashboardData(token);
+      })
+      .catch(() => {
+        sessionStorage.removeItem(TOKEN_STORAGE_KEY);
+        setToken('');
+        setAdminUser(null);
+      });
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [token]);
+
+  const handleLogin = async (e: FormEvent) => {
+    e.preventDefault();
+    setLoggingIn(true);
+    setAuthError(null);
+    try {
+      const res = await adminLogin(username, password);
+      sessionStorage.setItem(TOKEN_STORAGE_KEY, res.access_token);
+      setToken(res.access_token);
+      setAdminUser(res.username);
+      setPassword('');
+      showToast('Signed in to Admin Console');
+    } catch (err) {
+      setAuthError(err instanceof Error ? err.message : 'Login failed');
+    } finally {
+      setLoggingIn(false);
+    }
+  };
+
+  const handleLogout = () => {
+    sessionStorage.removeItem(TOKEN_STORAGE_KEY);
+    setToken('');
+    setAdminUser(null);
+  };
+
+  const splitCsv = (val: string) =>
+    val.split(',').map((s) => s.trim()).filter(Boolean);
+
+  const handleSaveScholarship = async (e: FormEvent) => {
+    e.preventDefault();
+    setSaving(true);
+    setFormError(null);
+
+    const payload = {
+      name: form.name.trim(),
+      provider: form.provider.trim(),
+      type: form.type,
+      basis: form.basis,
+      education_level: splitCsv(form.education_level),
+      course: splitCsv(form.course),
+      min_percentage: form.min_percentage ? Number(form.min_percentage) : null,
+      min_cgpa: form.min_cgpa ? Number(form.min_cgpa) : null,
+      max_family_income: form.max_family_income ? Number(form.max_family_income) : null,
+      states: splitCsv(form.states),
+      categories: splitCsv(form.categories),
+      amount: form.amount.trim() || null,
+      required_documents: splitCsv(form.required_documents),
+      deadline: form.deadline.trim() || null,
+      official_url: form.official_url.trim(),
+      source_status: form.source_status,
+      last_verified: form.last_verified.trim() || null,
+      description: form.description.trim() || null,
+      eligibility_notes: form.eligibility_notes.trim() || null,
+      application_steps: form.application_steps
+        .split('\n')
+        .map((s) => s.trim())
+        .filter(Boolean),
+      gender_requirement: form.gender_requirement,
+      is_active: true,
+    };
+
+    try {
+      if (editingId) {
+        await updateScholarship(token, editingId, payload);
+        showToast('Scholarship updated and re-indexed in ChromaDB');
+      } else {
+        await createScholarship(token, {
+          ...payload,
+          id: form.id.trim() || undefined,
+        });
+        showToast('Scholarship created and indexed in ChromaDB');
+      }
+      setModalOpen(false);
+      await loadDashboardData(token);
+    } catch (err) {
+      setFormError(err instanceof Error ? err.message : 'Save failed');
+    } finally {
+      setSaving(false);
+    }
+  };
+
+  const handleToggleVerification = async (sch: Scholarship) => {
+    const nextStatus: SourceStatus = sch.source_status === 'verified' ? 'sample' : 'verified';
+    try {
+      await updateScholarship(token, sch.id, {
+        source_status: nextStatus,
+        last_verified: nextStatus === 'verified' ? new Date().toISOString().slice(0, 10) : sch.last_verified,
+      });
+      showToast(`Marked as ${nextStatus}`);
+      await loadDashboardData(token);
+    } catch (err) {
+      showToast(err instanceof Error ? err.message : 'Update failed');
+    }
+  };
+
+  const handleDeleteScholarship = async (id: string, name: string) => {
+    if (!window.confirm(`Delete "${name}"? This removes it from SQLite and ChromaDB.`)) return;
+    try {
+      await deleteScholarship(token, id);
+      showToast('Scholarship deleted');
+      await loadDashboardData(token);
+    } catch (err) {
+      showToast(err instanceof Error ? err.message : 'Delete failed');
+    }
+  };
+
+  const handleUploadPdf = async (e: FormEvent) => {
+    e.preventDefault();
+    if (!pdfFile) return;
+    setUploadingPdf(true);
+    setPdfError(null);
+    try {
+      await uploadPdfDocument(token, pdfFile, pdfScholarshipId || undefined);
+      setPdfFile(null);
+      setPdfScholarshipId('');
+      showToast('PDF extracted & indexed into ChromaDB');
+      await loadDashboardData(token);
+    } catch (err) {
+      setPdfError(err instanceof Error ? err.message : 'PDF ingestion failed');
+    } finally {
+      setUploadingPdf(false);
+    }
+  };
+
+  const handleDeleteDoc = async (docId: string) => {
+    try {
+      await deleteIngestedDocument(token, docId);
+      showToast('Document deleted from ChromaDB');
+      await loadDashboardData(token);
+    } catch (err) {
+      showToast(err instanceof Error ? err.message : 'Failed to delete document');
+    }
+  };
+
+  if (!adminUser) {
+    return (
+      <div className="max-w-md mx-auto px-4 py-16">
+        <div className="rounded-2xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 p-6 sm:p-8 shadow-sm">
+          <div className="flex items-center gap-2.5 mb-4">
+            <div className="w-10 h-10 rounded-xl bg-blue-50 dark:bg-blue-950/70 flex items-center justify-center text-blue-600 dark:text-blue-400">
+              <Shield className="w-5 h-5" />
+            </div>
+            <div>
+              <h1 className="text-xl font-bold text-slate-900 dark:text-white">Admin Console</h1>
+              <p className="text-xs text-slate-500 dark:text-slate-400">JWT Authenticated Management</p>
+            </div>
+          </div>
+
+          <form onSubmit={handleLogin} className="space-y-4">
+            <div>
+              <label className="block text-xs font-semibold text-slate-700 dark:text-slate-300 mb-1">
+                Username
+              </label>
+              <input
+                type="text"
+                required
+                value={username}
+                onChange={(e) => setUsername(e.target.value)}
+                className="w-full rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 px-3.5 py-2.5 text-sm"
+              />
+            </div>
+            <div>
+              <label className="block text-xs font-semibold text-slate-700 dark:text-slate-300 mb-1">
+                Password
+              </label>
+              <input
+                type="password"
+                required
+                value={password}
+                onChange={(e) => setPassword(e.target.value)}
+                placeholder="Enter admin password"
+                className="w-full rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 px-3.5 py-2.5 text-sm"
+              />
+            </div>
+
+            {authError && (
+              <div className="rounded-xl bg-rose-50 dark:bg-rose-950/50 border border-rose-200 dark:border-rose-900 px-3 py-2 text-xs text-rose-700 dark:text-rose-200">
+                {authError}
+              </div>
+            )}
+
+            <button
+              type="submit"
+              disabled={loggingIn}
+              className="w-full rounded-xl bg-blue-600 py-2.5 text-sm font-semibold text-white hover:bg-blue-700 disabled:opacity-50"
+            >
+              {loggingIn ? 'Signing in...' : 'Sign In'}
+            </button>
+
+            <p className="text-[11px] text-slate-500 dark:text-slate-400 text-center">
+              Credentials are configured in backend <code className="px-1 rounded bg-slate-100 dark:bg-slate-800">.env</code> (<code className="px-1 rounded bg-slate-100 dark:bg-slate-800">ADMIN_USERNAME</code> / <code className="px-1 rounded bg-slate-100 dark:bg-slate-800">ADMIN_PASSWORD</code>).
+            </p>
+          </form>
+        </div>
+      </div>
+    );
+  }
+
+  const filteredScholarships = scholarships.filter(
+    (s) =>
+      !searchFilter.trim() ||
+      s.name.toLowerCase().includes(searchFilter.toLowerCase()) ||
+      s.provider.toLowerCase().includes(searchFilter.toLowerCase())
+  );
+
+  return (
+    <div className="max-w-7xl mx-auto px-4 sm:px-6 py-8 space-y-6">
+      <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
+        <div>
+          <h1 className="text-2xl sm:text-3xl font-extrabold text-slate-900 dark:text-white">
+            Admin Dashboard
+          </h1>
+          <p className="text-xs text-slate-500 dark:text-slate-400 mt-0.5">
+            Signed in as <strong>{adminUser}</strong> Â· Changes sync immediately to SQLite, Knowledge Graph &amp; ChromaDB
+          </p>
+        </div>
+        <button
+          type="button"
+          onClick={handleLogout}
+          className="inline-flex items-center gap-1.5 rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-900 px-4 py-2 text-xs font-semibold hover:bg-slate-50 dark:hover:bg-slate-800 self-start"
+        >
+          <LogOut className="w-3.5 h-3.5" />
+          Sign Out
+        </button>
+      </div>
+
+      {/* Tabs */}
+      <div className="flex flex-wrap gap-2 border-b border-slate-200 dark:border-slate-800 pb-3">
+        {[
+          { id: 'scholarships', label: `Scholarships (${scholarships.length})`, icon: Database },
+          { id: 'documents', label: `PDF Ingestion (${documents.length})`, icon: FileUp },
+          { id: 'analytics', label: 'Analytics & Failed Searches', icon: BarChart3 },
+        ].map((t) => (
+          <button
+            key={t.id}
+            type="button"
+            onClick={() => setTab(t.id as typeof tab)}
+            className={`inline-flex items-center gap-1.5 rounded-xl px-4 py-2 text-xs font-semibold transition-colors ${
+              tab === t.id
+                ? 'bg-blue-600 text-white'
+                : 'bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 hover:bg-slate-50 dark:hover:bg-slate-800'
+            }`}
+          >
+            <t.icon className="w-3.5 h-3.5" />
+            <span>{t.label}</span>
+          </button>
+        ))}
+      </div>
+
+      {/* Tab 1: Scholarships CRUD */}
+      {tab === 'scholarships' && (
+        <div className="space-y-4">
+          <div className="flex flex-col sm:flex-row items-stretch sm:items-center justify-between gap-3">
+            <input
+              type="text"
+              value={searchFilter}
+              onChange={(e) => setSearchFilter(e.target.value)}
+              placeholder="Filter scholarships table..."
+              className="rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-900 px-3.5 py-2 text-sm sm:w-80"
+            />
+            <button
+              type="button"
+              onClick={() => {
+                setEditingId(null);
+                setForm(EMPTY_FORM);
+                setFormError(null);
+                setModalOpen(true);
+              }}
+              className="inline-flex items-center justify-center gap-1.5 rounded-xl bg-blue-600 px-4 py-2 text-xs font-semibold text-white hover:bg-blue-700"
+            >
+              <Plus className="w-4 h-4" />
+              Add Scholarship
+            </button>
+          </div>
+
+          <div className="overflow-x-auto rounded-2xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 shadow-xs">
+            <table className="w-full text-left text-xs">
+              <thead className="border-b border-slate-200 dark:border-slate-800 bg-slate-50 dark:bg-slate-950/60 text-slate-600 dark:text-slate-300">
+                <tr>
+                  <th className="py-3 px-4 font-bold">Scholarship</th>
+                  <th className="py-3 px-4 font-bold">Type / Basis</th>
+                  <th className="py-3 px-4 font-bold">Verification</th>
+                  <th className="py-3 px-4 font-bold text-right">Actions</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-slate-100 dark:divide-slate-800">
+                {filteredScholarships.map((s) => (
+                  <tr key={s.id} className="hover:bg-slate-50/70 dark:hover:bg-slate-800/40">
+                    <td className="py-3 px-4">
+                      <p className="font-bold text-slate-900 dark:text-white">{s.name}</p>
+                      <p className="text-[11px] text-slate-500">{s.provider}</p>
+                    </td>
+                    <td className="py-3 px-4 capitalize">
+                      {s.type} Â· {s.basis}
+                    </td>
+                    <td className="py-3 px-4">
+                      <button
+                        type="button"
+                        onClick={() => handleToggleVerification(s)}
+                        title="Click to toggle verified/sample status"
+                      >
+                        <SourceBadge status={s.source_status} lastVerified={s.last_verified} compact />
+                      </button>
+                    </td>
+                    <td className="py-3 px-4 text-right space-x-2 whitespace-nowrap">
+                      <button
+                        type="button"
+                        onClick={() => {
+                          setEditingId(s.id);
+                          setForm(toFormState(s));
+                          setFormError(null);
+                          setModalOpen(true);
+                        }}
+                        className="inline-flex items-center gap-1 rounded-lg border border-slate-200 dark:border-slate-700 px-2.5 py-1 font-semibold hover:bg-slate-100 dark:hover:bg-slate-800"
+                      >
+                        <Edit3 className="w-3 h-3" /> Edit
+                      </button>
+                      <button
+                        type="button"
+                        onClick={() => handleDeleteScholarship(s.id, s.name)}
+                        className="inline-flex items-center gap-1 rounded-lg border border-rose-200 dark:border-rose-900 px-2.5 py-1 font-semibold text-rose-600 dark:text-rose-400 hover:bg-rose-50 dark:hover:bg-rose-950/40"
+                      >
+                        <Trash2 className="w-3 h-3" /> Delete
+                      </button>
+                    </td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </div>
+      )}
+
+      {/* Tab 2: PDF Ingestion */}
+      {tab === 'documents' && (
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+          <form
+            onSubmit={handleUploadPdf}
+            className="rounded-2xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 p-6 space-y-4"
+          >
+            <h2 className="text-base font-bold text-slate-900 dark:text-white flex items-center gap-2">
+              <FileUp className="w-5 h-5 text-blue-600" />
+              Upload Official PDF Circular
+            </h2>
+            <p className="text-xs text-slate-500 dark:text-slate-400">
+              Extracts text via PyPDF, splits into overlapping chunks, embeds, and indexes into ChromaDB for RAG citations.
+            </p>
+            <div>
+              <label className="block text-xs font-semibold mb-1">PDF File (.pdf, max 15 MB)</label>
+              <input
+                type="file"
+                accept=".pdf,application/pdf"
+                required
+                onChange={(e) => setPdfFile(e.target.files?.[0] || null)}
+                className="w-full text-xs file:mr-3 file:rounded-lg file:border-0 file:bg-blue-50 file:px-3 file:py-2 file:text-xs file:font-semibold file:text-blue-700"
+              />
+            </div>
+            <div>
+              <label className="block text-xs font-semibold mb-1">Link to Scholarship (Optional)</label>
+              <select
+                value={pdfScholarshipId}
+                onChange={(e) => setPdfScholarshipId(e.target.value)}
+                className="w-full rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 px-3 py-2 text-xs"
+              >
+                <option value="">General / Unlinked Circular</option>
+                {scholarships.map((s) => (
+                  <option key={s.id} value={s.id}>{s.name}</option>
+                ))}
+              </select>
+            </div>
+            {pdfError && (
+              <div className="rounded-xl bg-rose-50 dark:bg-rose-950/50 border border-rose-200 px-3 py-2 text-xs text-rose-700 dark:text-rose-200">
+                {pdfError}
+              </div>
+            )}
+            <button
+              type="submit"
+              disabled={uploadingPdf || !pdfFile}
+              className="rounded-xl bg-blue-600 px-5 py-2.5 text-xs font-semibold text-white hover:bg-blue-700 disabled:opacity-50"
+            >
+              {uploadingPdf ? 'Extracting & Indexing...' : 'Upload & Ingest PDF'}
+            </button>
+          </form>
+
+          <div className="rounded-2xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 p-6 space-y-3">
+            <h2 className="text-base font-bold text-slate-900 dark:text-white">
+              Indexed PDF Documents ({documents.length})
+            </h2>
+            {documents.length === 0 ? (
+              <p className="text-xs text-slate-500">No PDF circulars uploaded yet.</p>
+            ) : (
+              <div className="space-y-2.5">
+                {documents.map((d) => (
+                  <div
+                    key={d.id}
+                    className="flex items-center justify-between gap-2 rounded-xl border border-slate-200 dark:border-slate-800 p-3 text-xs"
+                  >
+                    <div className="min-w-0">
+                      <p className="font-semibold text-slate-900 dark:text-white truncate">{d.original_filename}</p>
+                      <p className="text-[11px] text-slate-500">
+                        {d.chunk_count} chunks Â· {d.char_count.toLocaleString()} chars Â· {d.scholarship_id || 'General'}
+                      </p>
+                    </div>
+                    <button
+                      type="button"
+                      onClick={() => handleDeleteDoc(d.id)}
+                      className="text-rose-600 hover:bg-rose-50 dark:hover:bg-rose-950/40 p-1.5 rounded-lg"
+                      aria-label="Delete PDF"
+                    >
+                      <Trash2 className="w-4 h-4" />
+                    </button>
+                  </div>
+                ))}
+              </div>
+            )}
+          </div>
+        </div>
+      )}
+
+      {/* Tab 3: Analytics & Failed Searches */}
+      {tab === 'analytics' && analytics && (
+        <div className="space-y-6">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+            {[
+              { label: 'Total Searches', value: analytics.total_searches },
+              { label: 'AI Chat Turns', value: analytics.total_chats },
+              { label: 'Eligibility Checks', value: analytics.total_eligibility_checks },
+              { label: 'Failed Searches (0 hits)', value: analytics.failed_searches_count },
+            ].map((stat) => (
+              <div
+                key={stat.label}
+                className="rounded-2xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 p-4"
+              >
+                <p className="text-xs text-slate-500 dark:text-slate-400">{stat.label}</p>
+                <p className="mt-1 text-2xl font-extrabold text-slate-900 dark:text-white">{stat.value}</p>
+              </div>
+            ))}
+          </div>
+
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+            <div className="rounded-2xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 p-6 space-y-4">
+              <h2 className="text-base font-bold flex items-center gap-2">
+                <CheckCircle2 className="w-4 h-4 text-emerald-600" />
+                Verification &amp; Vector Store Status
+              </h2>
+              <div className="space-y-2 text-xs">
+                <div className="flex justify-between">
+                  <span>Verified Schemes</span>
+                  <strong>{analytics.verified_count}</strong>
+                </div>
+                <div className="flex justify-between">
+                  <span>Sample Schemes</span>
+                  <strong>{analytics.sample_count}</strong>
+                </div>
+                <div className="flex justify-between">
+                  <span>ChromaDB Indexed Scholarships</span>
+                  <strong>{analytics.vector_counts.scholarships_indexed}</strong>
+                </div>
+                <div className="flex justify-between">
+                  <span>ChromaDB Indexed PDF Chunks</span>
+                  <strong>{analytics.vector_counts.document_chunks_indexed}</strong>
+                </div>
+                <div className="flex justify-between">
+                  <span>Embedding Mode</span>
+                  <strong className="uppercase">{analytics.vector_counts.embedding_mode}</strong>
+                </div>
+              </div>
+
+              <div className="pt-3 border-t border-slate-100 dark:border-slate-800">
+                <p className="text-xs font-bold mb-2">Intent Breakdown</p>
+                <div className="flex flex-wrap gap-2">
+                  {Object.entries(analytics.intent_breakdown).map(([k, v]) => (
+                    <span key={k} className="rounded-lg bg-slate-100 dark:bg-slate-800 px-2.5 py-1 text-xs">
+                      {k}: <strong>{v}</strong>
+                    </span>
+                  ))}
+                </div>
+              </div>
+            </div>
+
+            <div className="rounded-2xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 p-6 space-y-3">
+              <h2 className="text-base font-bold flex items-center gap-2">
+                <AlertTriangle className="w-4 h-4 text-amber-600" />
+                Recent Failed Searches (Content Gaps)
+              </h2>
+              {analytics.recent_failed_searches.length === 0 ? (
+                <p className="text-xs text-slate-500">No zero-result searches recorded yet.</p>
+              ) : (
+                <div className="space-y-2 max-h-64 overflow-y-auto">
+                  {analytics.recent_failed_searches.map((f) => (
+                    <div
+                      key={f.id}
+                      className="rounded-xl border border-slate-200 dark:border-slate-800 p-2.5 text-xs flex items-center justify-between gap-2"
+                    >
+                      <span className="font-medium text-slate-800 dark:text-slate-200 truncate">{f.query}</span>
+                      <span className="text-[11px] text-slate-400 shrink-0">{f.endpoint}</span>
+                    </div>
+                  ))}
+                </div>
+              )}
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* Add / Edit Modal */}
+      {modalOpen && (
+        <div
+          className="fixed inset-0 z-50 flex items-center justify-center bg-slate-950/60 backdrop-blur-xs p-4"
+          role="dialog"
+          aria-modal="true"
+        >
+          <div className="w-full max-w-2xl max-h-[90vh] overflow-y-auto rounded-2xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 p-6 shadow-xl">
+            <div className="flex items-center justify-between mb-4">
+              <h2 className="text-lg font-bold text-slate-900 dark:text-white">
+                {editingId ? 'Edit Scholarship' : 'Add New Scholarship'}
+              </h2>
+              <button type="button" onClick={() => setModalOpen(false)} className="p-1.5 rounded-lg hover:bg-slate-100 dark:hover:bg-slate-800">
+                <X className="w-4 h-4" />
+              </button>
+            </div>
+
+            <form onSubmit={handleSaveScholarship} className="space-y-3 text-xs">
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+                {!editingId && (
+                  <div>
+                    <label className="block font-semibold mb-1">Slug ID (optional)</label>
+                    <input
+                      type="text"
+                      value={form.id}
+                      onChange={(e) => setForm({ ...form, id: e.target.value })}
+                      placeholder="auto-generated if empty"
+                      className="w-full rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 px-3 py-2"
+                    />
+                  </div>
+                )}
+                <div className={editingId ? 'sm:col-span-2' : ''}>
+                  <label className="block font-semibold mb-1">Scholarship Name *</label>
+                  <input
+                    type="text"
+                    required
+                    value={form.name}
+                    onChange={(e) => setForm({ ...form, name: e.target.value })}
+                    className="w-full rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 px-3 py-2"
+                  />
+                </div>
+                <div>
+                  <label className="block font-semibold mb-1">Provider Organization *</label>
+                  <input
+                    type="text"
+                    required
+                    value={form.provider}
+                    onChange={(e) => setForm({ ...form, provider: e.target.value })}
+                    className="w-full rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 px-3 py-2"
+                  />
+                </div>
+                <div>
+                  <label className="block font-semibold mb-1">Official URL *</label>
+                  <input
+                    type="url"
+                    required
+                    value={form.official_url}
+                    onChange={(e) => setForm({ ...form, official_url: e.target.value })}
+                    className="w-full rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 px-3 py-2"
+                  />
+                </div>
+                <div>
+                  <label className="block font-semibold mb-1">Type</label>
+                  <select
+                    value={form.type}
+                    onChange={(e) => setForm({ ...form, type: e.target.value as ScholarshipType })}
+                    className="w-full rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 px-3 py-2"
+                  >
+                    <option value="government">government</option>
+                    <option value="private">private</option>
+                    <option value="university">university</option>
+                  </select>
+                </div>
+                <div>
+                  <label className="block font-semibold mb-1">Basis</label>
+                  <select
+                    value={form.basis}
+                    onChange={(e) => setForm({ ...form, basis: e.target.value as ScholarshipBasis })}
+                    className="w-full rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 px-3 py-2"
+                  >
+                    <option value="merit">merit</option>
+                    <option value="need">need</option>
+                    <option value="category">category</option>
+                  </select>
+                </div>
+                <div>
+                  <label className="block font-semibold mb-1">Education Levels (comma-separated) *</label>
+                  <input
+                    type="text"
+                    required
+                    value={form.education_level}
+                    onChange={(e) => setForm({ ...form, education_level: e.target.value })}
+                    className="w-full rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 px-3 py-2"
+                  />
+                </div>
+                <div>
+                  <label className="block font-semibold mb-1">Courses (comma-separated) *</label>
+                  <input
+                    type="text"
+                    required
+                    value={form.course}
+                    onChange={(e) => setForm({ ...form, course: e.target.value })}
+                    className="w-full rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 px-3 py-2"
+                  />
+                </div>
+                <div>
+                  <label className="block font-semibold mb-1">Min Percentage (%)</label>
+                  <input
+                    type="number"
+                    step="0.1"
+                    value={form.min_percentage}
+                    onChange={(e) => setForm({ ...form, min_percentage: e.target.value })}
+                    className="w-full rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 px-3 py-2"
+                  />
+                </div>
+                <div>
+                  <label className="block font-semibold mb-1">Min CGPA (0-10)</label>
+                  <input
+                    type="number"
+                    step="0.1"
+                    value={form.min_cgpa}
+                    onChange={(e) => setForm({ ...form, min_cgpa: e.target.value })}
+                    className="w-full rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 px-3 py-2"
+                  />
+                </div>
+                <div>
+                  <label className="block font-semibold mb-1">Max Family Income (â‚¹ INR)</label>
+                  <input
+                    type="number"
+                    value={form.max_family_income}
+                    onChange={(e) => setForm({ ...form, max_family_income: e.target.value })}
+                    className="w-full rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 px-3 py-2"
+                  />
+                </div>
+                <div>
+                  <label className="block font-semibold mb-1">Amount / Benefit</label>
+                  <input
+                    type="text"
+                    value={form.amount}
+                    onChange={(e) => setForm({ ...form, amount: e.target.value })}
+                    className="w-full rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 px-3 py-2"
+                  />
+                </div>
+                <div>
+                  <label className="block font-semibold mb-1">States (comma-separated) *</label>
+                  <input
+                    type="text"
+                    required
+                    value={form.states}
+                    onChange={(e) => setForm({ ...form, states: e.target.value })}
+                    className="w-full rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 px-3 py-2"
+                  />
+                </div>
+                <div>
+                  <label className="block font-semibold mb-1">Categories (comma-separated) *</label>
+                  <input
+                    type="text"
+                    required
+                    value={form.categories}
+                    onChange={(e) => setForm({ ...form, categories: e.target.value })}
+                    className="w-full rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 px-3 py-2"
+                  />
+                </div>
+                <div>
+                  <label className="block font-semibold mb-1">Deadline (YYYY-MM-DD or blank)</label>
+                  <input
+                    type="text"
+                    value={form.deadline}
+                    onChange={(e) => setForm({ ...form, deadline: e.target.value })}
+                    placeholder="Leave blank if unconfirmed"
+                    className="w-full rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 px-3 py-2"
+                  />
+                </div>
+                <div>
+                  <label className="block font-semibold mb-1">Source Status</label>
+                  <select
+                    value={form.source_status}
+                    onChange={(e) => setForm({ ...form, source_status: e.target.value as SourceStatus })}
+                    className="w-full rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 px-3 py-2"
+                  >
+                    <option value="verified">verified</option>
+                    <option value="sample">sample</option>
+                  </select>
+                </div>
+              </div>
+
+              <div>
+                <label className="block font-semibold mb-1">Required Documents (comma-separated)</label>
+                <input
+                  type="text"
+                  value={form.required_documents}
+                  onChange={(e) => setForm({ ...form, required_documents: e.target.value })}
+                  className="w-full rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 px-3 py-2"
+                />
+              </div>
+
+              <div>
+                <label className="block font-semibold mb-1">Description</label>
+                <textarea
+                  rows={2}
+                  value={form.description}
+                  onChange={(e) => setForm({ ...form, description: e.target.value })}
+                  className="w-full rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 px-3 py-2"
+                />
+              </div>
+
+              {formError && (
+                <div className="rounded-xl bg-rose-50 dark:bg-rose-950/50 border border-rose-200 px-3 py-2 text-rose-700 dark:text-rose-200">
+                  {formError}
+                </div>
+              )}
+
+              <div className="flex justify-end gap-2 pt-3 border-t border-slate-200 dark:border-slate-800">
+                <button
+                  type="button"
+                  onClick={() => setModalOpen(false)}
+                  className="rounded-xl border border-slate-200 dark:border-slate-700 px-4 py-2 font-semibold"
+                >
+                  Cancel
+                </button>
+                <button
+                  type="submit"
+                  disabled={saving}
+                  className="rounded-xl bg-blue-600 px-5 py-2 font-semibold text-white hover:bg-blue-700 disabled:opacity-50"
+                >
+                  {saving ? 'Saving...' : editingId ? 'Update Scholarship' : 'Create Scholarship'}
+                </button>
+              </div>
+            </form>
+          </div>
+        </div>
+      )}
+    </div>
+  );
+}
