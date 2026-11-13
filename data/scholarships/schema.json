@@ -1,0 +1,105 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://scholarai.local/schemas/scholarships.schema.json",
+  "title": "ScholarAI Knowledge Base Dataset",
+  "description": "Knowledge-graph-ready scholarship dataset schema for Indian students.",
+  "type": "object",
+  "required": ["schema_version", "entities", "relationships", "scholarships"],
+  "properties": {
+    "schema_version": { "type": "string" },
+    "entities": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Conceptual knowledge graph entities: Student, Scholarship, Organization, Course, State, Document."
+    },
+    "relationships": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["from", "relation", "to"],
+        "properties": {
+          "from": { "type": "string" },
+          "relation": { "type": "string" },
+          "to": { "type": "string" }
+        }
+      }
+    },
+    "scholarships": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/Scholarship" }
+    }
+  },
+  "$defs": {
+    "Scholarship": {
+      "type": "object",
+      "required": [
+        "id",
+        "name",
+        "provider",
+        "type",
+        "basis",
+        "education_level",
+        "course",
+        "min_percentage",
+        "min_cgpa",
+        "max_family_income",
+        "states",
+        "categories",
+        "amount",
+        "required_documents",
+        "deadline",
+        "official_url",
+        "source_status",
+        "last_verified"
+      ],
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+        "name": { "type": "string", "minLength": 3 },
+        "provider": { "type": "string", "minLength": 2 },
+        "type": { "type": "string", "enum": ["government", "private", "university"] },
+        "basis": { "type": "string", "enum": ["merit", "need", "category"] },
+        "education_level": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "type": "string" }
+        },
+        "course": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "type": "string" }
+        },
+        "min_percentage": { "type": ["number", "null"], "minimum": 0, "maximum": 100 },
+        "min_cgpa": { "type": ["number", "null"], "minimum": 0, "maximum": 10 },
+        "max_family_income": { "type": ["number", "null"], "minimum": 0 },
+        "states": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "type": "string" }
+        },
+        "categories": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "type": "string" }
+        },
+        "amount": { "type": ["string", "null"] },
+        "required_documents": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "deadline": { "type": ["string", "null"] },
+        "official_url": { "type": "string", "format": "uri" },
+        "source_status": { "type": "string", "enum": ["verified", "sample"] },
+        "last_verified": { "type": ["string", "null"] },
+        "description": { "type": "string" },
+        "eligibility_notes": { "type": "string" },
+        "application_steps": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "gender_requirement": { "type": ["string", "null"], "enum": ["All", "Female", "Male", null] },
+        "is_active": { "type": "boolean" }
+      }
+    }
+  }
+}

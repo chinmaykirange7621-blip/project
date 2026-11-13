@@ -1,0 +1,31 @@
+# Environment & secrets
+.env
+.env.local
+backend/.env
+frontend/.env
+
+# Python environments & caches
+.venv/
+backend/.venv/
+presentation/.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Node & build artifacts
+frontend/node_modules/
+frontend/dist/
+
+# Runtime database & vector index (seeded automatically on startup)
+data/scholarai.db
+data/*.db
+data/*.sqlite*
+data/chroma_db/
+data/documents/*.pdf
+
+# OS & editor files
+.DS_Store
+Thumbs.db
+*.log

@@ -1,0 +1,38 @@
+services:
+  - type: web
+    name: scholarai
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    healthCheckPath: /api/health
+    autoDeploy: true
+    envVars:
+      - key: GEMINI_API_KEY
+        value: ""
+      - key: GEMINI_CHAT_MODEL
+        value: gemini-3.8-flash
+      - key: GEMINI_EMBEDDING_MODEL
+        value: gemini-embedding-001
+      - key: JWT_SECRET_KEY
+        generateValue: true
+      - key: ADMIN_USERNAME
+        value: admin
+      - key: ADMIN_PASSWORD
+        sync: false
+      - key: CORS_ORIGIN_REGEX
+        value: 'https://.*\.onrender\.com'
+      - key: ANONYMIZED_TELEMETRY
+        value: "False"
+
+# Optional persistent PostgreSQL upgrade (uncomment & link if you want admin edits to persist across free-tier restarts):
+# databases:
+#   - name: scholarai-db
+#     plan: free
+#     databaseName: scholarai
+#     user: scholarai
+# Then add under envVars above:
+#   - key: DATABASE_URL
+#     fromDatabase:
+#       name: scholarai-db
+#       property: connectionString
